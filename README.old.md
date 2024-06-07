@@ -29,6 +29,7 @@ Components:
 npx create-react-app .
 
 
+
 https://api.themoviedb.org/3/movie/550?api_key=ccfa4ecd270cd9e26cc5791a495b5aca
 
 
@@ -250,16 +251,6 @@ https://quillbot.com/
 8. Internshala
 
 
-
-
-Additionally Resources, What Next ?, GitHub, Diff Positions
-Typescript, DevOps
-Payment Gateway Project
-One Last Day (Project Submission)
-DSA 
-
-
-
 ## What Next afet Web Tech ?
 1. Next.js
 2. Three.js
@@ -291,37 +282,3 @@ DSA
 10. Manual Tester
 11. UI UX Developer
 12. Architect
-
-
-
-## GitHub
-https://rahuldkjain.github.io/gh-profile-readme-generator/
-
-
-
-
-Friday: Payment Gateway & brief out the project
-Saturday: Devops & DSA
-Sunday: DSA
-Monday: Last Day
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
