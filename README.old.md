@@ -1,8 +1,5 @@
 # book-my-show-app
 
-Hey New Project
-
-
 Pages:
     >> Home.Page.jsx (Default.Hoc.jsx)
     >> Movie.Page.jsx (Movie.Hoc.jsx)
@@ -29,8 +26,12 @@ Components:
 npx create-react-app .
 
 
+<<<<<<< HEAD
 
 https://api.themoviedb.org/3/movie/550?api_key=ccfa4ecd270cd9e26cc5791a495b5aca
+=======
+https://api.themoviedb.org/3/movie/550?api_key=f166d1aed2889e459477e4e0e2e9ce7a
+>>>>>>> 1d8ac2e157168527af7d116bee11a580a43ab6a2
 
 
 
